@@ -1,1 +1,0 @@
-# HRNetW48_seg
